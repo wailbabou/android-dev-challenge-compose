@@ -10,4 +10,7 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string name="appName">Puppies adoption</string>
+    <string name="to_top_button_text">To top</string>
+    <string name="content_random">\"Hello , this is a message from the puppy owner , my puppy is available for adoption , if any one is interested please contact me \"</string>
 </resources>
